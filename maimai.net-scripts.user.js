@@ -7,6 +7,8 @@
 // @match        *://maimaidx-eng.com/maimai-mobile/*
 // @exclude      *://maimaidx-eng.com/maimai-mobile/record/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=maimaidx-eng.com
+// @updateURL    https://raw.githubusercontent.com/XIAOANz/maimai.net-scripts/main/maimai.net-scripts.user.js
+// @downloadURL  https://raw.githubusercontent.com/XIAOANz/maimai.net-scripts/main/maimai.net-scripts.user.js
 // @grant        none
 // ==/UserScript==
 
