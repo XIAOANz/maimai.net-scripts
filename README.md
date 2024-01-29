@@ -4,7 +4,7 @@ Integrate convenient userscripts for maimai.net.
 
 # How to Use
 1. Install any userscript manager like Tampermonkey or Greasemonkey.
-2. Go to dashboard and install from https://github.com/XIAOANz/maimai.net-scripts/blob/main/maimai.net-scripts.js
+2. Go to dashboard and install from https://raw.githubusercontent.com/XIAOANz/maimai.net-scripts/main/maimai.net-scripts.user.js
 3. Done!
  
 
@@ -13,5 +13,5 @@ Integrate convenient userscripts for maimai.net.
 * Auto direct to [MaiMai BookmarkLets](https://myjian.github.io/mai-tools/)
 
 # Credits
-[maimai-score-details](https://github.com/SpiritsUnite/maimai-score-details) by SpiritsUnite
+[maimai-score-details](https://github.com/SpiritsUnite/maimai-score-details)by SpiritsUnite
 [mai-tools](https://github.com/myjian/mai-tools) by myjian
