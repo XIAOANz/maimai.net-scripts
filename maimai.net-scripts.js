@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         maimai.net-scripts
-// @namespace    https://github.com/SpiritsUnite/maimai-score-details/tree/main
-// @version      2024-01-27
-// @description  Shows percent lost per note type in the score details section in maimai DX NET.
+// @namespace    https://github.com/XIAOANz/maimai.net-scripts
+// @version      0.1
+// @description  Integrate convenient userscripts for maimai.net.
 // @author       XIAOANz
 // @match        *://maimaidx-eng.com/maimai-mobile/*
+// @exclude      *://maimaidx-eng.com/maimai-mobile/record/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=maimaidx-eng.com
 // @grant        none
 // ==/UserScript==
